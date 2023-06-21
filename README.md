@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mihai Sacuiu</h1>
 <h3 align="center">A passionate self-taught frontend developer who is trying constantly to improve.</h3>
 
-- 🔭 I’m currently working on **Trying to launch my own app**
-
 - 🌱 I’m currently learning **NextJS13, POSTGRESQL, PRISMA**
 
 - 👨‍💻 All of my projects are available at [https://portofoliomihai.netlify.app/](https://portofoliomihai.netlify.app/)
