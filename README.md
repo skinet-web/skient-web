@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mihai Sacuiu</h1>
-<h3 align="left">A passionate self-taught frontend developer who is trying constantly to improve.</h3>
+<h3 align="left">A passionate, self-taught frontend developer who is constantly striving to improve.</h3>
 
 - 🌱 I’m currently learning **NextJS13, POSTGRESQL, PRISMA**
 
