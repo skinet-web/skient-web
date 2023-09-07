@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mihai Sacuiu</h1>
+<h1 align="left">Hi 👋</h1>
 <h3 align="left">A passionate, self-taught frontend developer who is constantly striving to improve.</h3>
 
 - 🌱 I’m currently learning **NextJS13, POSTGRESQL **
