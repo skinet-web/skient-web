@@ -1,8 +1,7 @@
 <h1 align="left">Hi 👋</h1>
 <h3 align="left">A passionate, self-taught frontend developer who is constantly striving to improve.</h3>
 
-- 🌱 I’m currently learning **NextJS13, POSTGRESQL **
-
+- I made [Lo-fi Lounge](https://lo-fi-app.vercel.app/) and [Scandine](https://swipen-savor-skinet-web.vercel.app/)
 - 👨‍💻 All of my projects are available at [https://portofoliomihai.netlify.app/](https://portofoliomihai.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
